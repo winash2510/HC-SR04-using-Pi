@@ -1,2 +1,2 @@
 # HC-SR04-using-pi
-just for testing git clone on ssh..
+Just for testing git clone.
