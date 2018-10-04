@@ -1,6 +1,7 @@
-from random import random
-
-if random()> 0.2:
-  print("nice repo!")
-else:
-  print("good try!")
+import random
+while True:
+  if random.randint()> 10:    #using randint to get random integer value
+    print("Nice repo!")
+  else:
+    print("Good try!")
+    break
